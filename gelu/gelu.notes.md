@@ -65,5 +65,3 @@ np.vectorize(math.erf(x / np.sqrt(2)))
 ```
 
 ---
-
-Does that make sense? Now try fixing your complete `return` line!
