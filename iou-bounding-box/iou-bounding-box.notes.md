@@ -45,12 +45,7 @@ box_b = [2, 2, 6, 6]
 
 ```
 
-<p class="codepen" data-height="300" data-pen-title="Untitled" data-version="2" data-default-tab="html,result" data-slug-hash="qERLVXe" data-user="Raunakgola" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/editor/Raunakgola/pen/019fc24b-0497-7564-99d0-0433507dc276">
-  Untitled</a> by Raunak Gola (<a href="https://codepen.io/Raunakgola">@Raunakgola</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://public.codepenassets.com/embed/index.js"></script>
+[▶ Interactive IoU Visualizer](https://codepen.io/editor/Raunakgola/pen/019fc24b-0497-7564-99d0-0433507dc276)
 
 ---
 ## 🧠 3. How to Find the Intersection Rectangle
